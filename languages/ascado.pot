@@ -1,0 +1,39 @@
+# Copyright (C) 2026 Ascado Foundation
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ascado 1.0.0\n"
+"Report-Msgid-Bugs-To: https://ascado.org/support\n"
+"POT-Creation-Date: 2026-09-04 12:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Ascado Team\n"
+"Language-Team: Bangla, English, Arabic\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Ascado - Islamic Multi-Hub & Halal Marketplace"
+msgstr "এসকাডো - ইসলামিক মাল্টি-হাব ও হালাল মার্কেটপ্লেস"
+
+msgid "Primary Menu"
+msgstr "প্রধান মেনু"
+
+msgid "Footer Menu"
+msgstr "ফুটার মেনু"
+
+msgid "Ascado Portal Loading..."
+msgstr "এসকাডো পোর্টাল লোড হচ্ছে..."
+
+msgid "Halal Marketplace"
+msgstr "হালাল মার্কেটপ্লেস"
+
+msgid "Customer Digital Vault"
+msgstr "গ্রাহক ডিজিটাল ভল্ট"
+
+msgid "Blood SOS"
+msgstr "জরুরি রক্তদান এসওএস"
+
+msgid "Donate Now"
+msgstr "এখনই অনুদান দিন"

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Home Page -->
+  <url>
+    <loc>https://ascado.org/</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://ascado.org/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ascado.org/#lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ascado.org/#lang=ar" />
+  </url>
+
+  <!-- Halal Marketplace -->
+  <url>
+    <loc>https://ascado.org/#marketplace</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Blood Bank & Emergency SOS -->
+  <url>
+    <loc>https://ascado.org/#blood-bank</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- School & Madrasa ERP -->
+  <url>
+    <loc>https://ascado.org/#school</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Donation, Zakat & Relief Appeals -->
+  <url>
+    <loc>https://ascado.org/#donation</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Somiti & Microfinance Management -->
+  <url>
+    <loc>https://ascado.org/#somiti</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Halal Real Estate & Land CS Records -->
+  <url>
+    <loc>https://ascado.org/#real-estate</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Islamic Matrimony Media -->
+  <url>
+    <loc>https://ascado.org/#marriage</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Paramedical & Nursing Courses -->
+  <url>
+    <loc>https://ascado.org/#medical-courses</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Vocational & Skill Training -->
+  <url>
+    <loc>https://ascado.org/#training</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Volunteer Registration -->
+  <url>
+    <loc>https://ascado.org/#volunteer</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Branches & Committees -->
+  <url>
+    <loc>https://ascado.org/#branches</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Constitution & By-Laws -->
+  <url>
+    <loc>https://ascado.org/#constitution</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+
+  <!-- News & Events -->
+  <url>
+    <loc>https://ascado.org/#news</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Contact & Helpline -->
+  <url>
+    <loc>https://ascado.org/#contact</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>

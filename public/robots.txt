@@ -1,0 +1,14 @@
+# Robots.txt for ASCAHDO Multi-NGO Integrated Platform & Halal Marketplace
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin
+Disallow: /dashboard
+
+# Allow Search Engine crawlers to index assets
+Allow: /public/
+Allow: /assets/
+Allow: /dist/
+
+# Sitemaps
+Sitemap: https://ascado.org/sitemap.xml

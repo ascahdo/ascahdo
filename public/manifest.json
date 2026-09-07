@@ -1,0 +1,57 @@
+{
+  "id": "/",
+  "name": "ASCAHDO Multi-NGO Integrated Management Platform",
+  "short_name": "ASCAHDO",
+  "description": "Enterprise-grade Multi-NGO Management Platform, Halal Marketplace, School ERP, Blood Bank SOS, and Microcredit Passbook.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "lang": "bn",
+  "categories": ["business", "social", "productivity", "finance", "education"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Blood Bank SOS",
+      "short_name": "Blood SOS",
+      "description": "Emergency blood donor search",
+      "url": "/#blood-bank",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Halal Marketplace",
+      "short_name": "Marketplace",
+      "description": "Halal products and services",
+      "url": "/#marketplace",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Donation & Zakat",
+      "short_name": "Donate",
+      "description": "Support humanitarian causes",
+      "url": "/#charity",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

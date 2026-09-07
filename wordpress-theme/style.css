@@ -1,0 +1,41 @@
+/*
+Theme Name: Ascado Multi-NGO Management Platform
+Theme URI: https://ascado.org
+Author: Ascado Foundation
+Author URI: https://ascado.org
+Description: Enterprise-grade Multi-NGO WordPress theme supporting WordPress Multisite, custom branding (logo, colors, committee, members), Blood Bank, Training & Courses, School ERP, Microcredit, and bKash/Nagad/Rocket payment integrations.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.7
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: ascado
+Domain Path: /languages
+Tags: e-commerce, custom-colors, custom-menu, featured-images, translation-ready, rtl-language-support, full-width-template, theme-options, multisite
+
+(C) 2026 Ascado Foundation. All rights reserved.
+*/
+
+/* WordPress Core CSS resets & utilities */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: #f8fafc;
+    color: #0f172a;
+    -webkit-font-smoothing: antialiased;
+}
+
+#root {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* RTL Support for Arabic */
+html[dir="rtl"] body {
+    direction: rtl;
+    text-align: right;
+    font-family: 'Amiri', 'Traditional Arabic', Tahoma, sans-serif;
+}

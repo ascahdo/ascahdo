@@ -1,0 +1,63 @@
+# Translation Template for Ascado WordPress Theme
+# Copyright (C) 2026 Ascado Foundation
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ascado 1.0.0\n"
+"Report-Msgid-Bugs-To: support@ascado.org\n"
+"POT-Creation-Date: 2026-09-04 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Ascado Dev Team <dev@ascado.org>\n"
+"Language-Team: Bangla, English, Arabic <i18n@ascado.org>\n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: ascado\n"
+
+msgid "Ascado"
+msgstr "এসকাডো"
+
+msgid "Primary Menu"
+msgstr "প্রধান মেনু"
+
+msgid "Footer Menu"
+msgstr "ফুটার মেনু"
+
+msgid "Mobile Quick Menu"
+msgstr "মোবাইল কুইক মেনু"
+
+msgid "Blood SOS"
+msgstr "জরুরি রক্ত SOS"
+
+msgid "Donate Now"
+msgstr "এখনই অনুদান দিন"
+
+msgid "Halal Marketplace"
+msgstr "হালাল মার্কেটপ্লেস"
+
+msgid "Customer Digital Vault"
+msgstr "গ্রাহক ডিজিটাল ভল্ট"
+
+msgid "Checkout"
+msgstr "চেকআউট"
+
+msgid "License Key"
+msgstr "লাইসেন্স কী"
+
+msgid "Download"
+msgstr "ডাউনলোড"
+
+msgid "Somiti & Savings"
+msgstr "সমিতি ও সঞ্চয়"
+
+msgid "Matrimony"
+msgstr "ম্যারেজ মিডিয়া"
+
+msgid "Real Estate Point"
+msgstr "রিয়েল এস্টেট পয়েন্ট"
+
+msgid "Charity & Zakat"
+msgstr "অনুদানের তহবিল ও যাকাত"

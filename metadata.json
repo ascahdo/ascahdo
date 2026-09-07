@@ -1,0 +1,6 @@
+{
+  "name": "ASCAHDO Multi-NGO Integrated Management Platform",
+  "description": "Enterprise-grade multilingual multi-organization platform featuring full Multi-Tenant School, Madrasa & College Management SaaS ERP + Website Builder, NGO public portal, blood bank, LMS, training, somiti & loans, Full Halal Marketplace with digital products, physical commodities, vendor portal & bundle system, and role-based user & admin portals in Bangla and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
